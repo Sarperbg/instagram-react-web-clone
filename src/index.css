@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 @layer base {
-  html, body, #root {
-    @apply h-full bg-zinc-50
-  }
+    html, body, #root {
+        @apply h-full bg-zinc-50
+    }
 }
